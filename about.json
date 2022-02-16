@@ -1,5 +1,6 @@
 {
   "name": "discourse-tag-banners",
+  "authors": "Techcommunity",
   "about_url": "",
   "component": true,
   "license_url": ""
